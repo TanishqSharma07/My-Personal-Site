@@ -1,0 +1,30 @@
+
+
+.profile-img {
+    height: 120px;
+    border-radius: 50%;
+  }
+  
+
+.progress {
+  max-width: 80%;
+}
+
+li{
+  list-style: none;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: .75rem;
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+li.edu {
+  list-style: disc;
+}
